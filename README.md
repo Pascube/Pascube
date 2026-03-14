@@ -25,8 +25,7 @@
 - **Mongo**
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DesarrolloWebHackio)
-![Profile stats](https://github-readme-stats.vercel.app/api?username=DesarrolloWebHackio&show_icons=true)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=Pascube&show_icons=true)
 
 <!--
 **Pascube/Pascube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
